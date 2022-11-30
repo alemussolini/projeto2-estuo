@@ -1,2 +1,2 @@
-# projeto2-estuo
+# projeto2-estudo
 praticando html, css
